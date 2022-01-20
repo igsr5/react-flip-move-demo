@@ -1,3 +1,11 @@
+# react-flip-move の動作検証リポジトリ
+
+https://github.com/joshwcomeau/react-flip-move
+
+複数のコンポーネントリストがいい感じのアニメーションで並び替えられることを確認
+
+---
+
 # 📝 This is a igsr5's original [Next.js](https://nextjs.org/) project.
 
 ## 💡 +@ igsr5's original settings. 💡
